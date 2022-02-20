@@ -1,4 +1,4 @@
-package HeadFirstDuck.Duck1;
+package GitHub.Duck1.HeadFirstDuck1;
 
 public class MuteQuack implements QuackBehavior{
     @Override

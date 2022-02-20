@@ -1,4 +1,4 @@
-package HeadFirstDuck.Duck1;
+package GitHub.Duck1.HeadFirstDuck1;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {

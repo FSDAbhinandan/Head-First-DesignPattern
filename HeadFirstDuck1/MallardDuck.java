@@ -1,4 +1,4 @@
-package HeadFirstDuck.Duck1;
+package GitHub.Duck1.HeadFirstDuck1;
 
 public class MallardDuck extends Duck{
 
@@ -11,6 +11,6 @@ public class MallardDuck extends Duck{
 
     @Override
     public void display() {
-        System.out.println("I Am A Real Mallard HeadFirstDuck.Duck1.Duck");
+        System.out.println("I Am A Real Mallard GitHub.Duck1.HeadFirstDuck1.Duck");
     }
 }
